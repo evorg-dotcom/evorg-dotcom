@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Evan%20Alford&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Security%20Analyst%20%7C%20Blue%20Team%20%7C%20Palm%20Coast%2C%20FL&descSize=17&descAlignY=58" alt="Evan Alford" />
+  <img src="assets/banner.svg" alt="Evan Alford, Security Analyst" width="100%" />
 </p>
 
 <p align="center">
@@ -54,6 +54,3 @@ I spent most of 2025 in IT support at Publix, working internal staff tickets in 
 - **Cyber Defense Professional Certificate**, University of Central Florida
 - **Blue Team Analyst Program**, Ryvora Cyber Range (hands-on training environment)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" alt="" />
-</p>
