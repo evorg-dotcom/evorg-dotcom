@@ -16,8 +16,9 @@ I spent most of 2025 in IT support at Publix, working internal staff tickets in 
 
 - 🔭 Building a SOC detection and triage lab in Splunk with the BOTS v3 dataset
 - 🛡️ Running a purple team homelab with Microsoft Defender for Endpoint
+- 🤖 Building AI applications like [RAG-BOT](https://github.com/evorg-dotcom/RAG-BOT), and more than halfway through TripleTen's AI Automation program
 - 🎯 Practicing on TryHackMe and HackerDNA, where I hold a top U.S. ranking
-- 💼 Looking for Tier 1 SOC, junior security analyst, and IT support roles. Open to relocating.
+- 💼 Looking for Tier 1 SOC, junior security analyst, IT support, and entry-level AI engineering roles. Open to relocating.
 
 ## Tools I use
 
